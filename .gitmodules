@@ -1,6 +1,6 @@
 [submodule "input"]
 	path = input
-	url = ./input
+	url = https://github.com/FOXHOTFIELD/Round-3-input.git
 [submodule "output"]
 	path = output
-	url = ./output
+	url = https://github.com/FOXHOTFIELD/Round-3-output.git
