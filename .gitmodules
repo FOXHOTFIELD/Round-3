@@ -1,0 +1,6 @@
+[submodule "input"]
+	path = input
+	url = ./input
+[submodule "output"]
+	path = output
+	url = ./output
